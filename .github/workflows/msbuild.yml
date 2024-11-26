@@ -46,4 +46,4 @@ jobs:
 
     - name: Test
       working-directory: ${{env.GITHUB_WORKSPACE}}
-      run: .\${{env.BUILD_PLATFORM}}\${{env.BUILD_CONFIGURATION}}\Tests.exe
+      run: .\${{env.BUILD_PLATFORM}}\${{env.BUILD_CONFIGURATION}}\SimdVectorsTests.exe

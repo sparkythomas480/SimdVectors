@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.12.35514.174 d17.12
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Tests", "Tests\Tests.vcxproj", "{A4D513AB-E75A-4718-9949-A423C008B1AF}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SimdVectorsTests", "SimdVectorsTests\SimdVectorsTests.vcxproj", "{A4D513AB-E75A-4718-9949-A423C008B1AF}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SimdVectors", "SimdVectors\SimdVectors.vcxproj", "{481103F6-3942-43FC-90D0-08450284C14B}"
 EndProject
